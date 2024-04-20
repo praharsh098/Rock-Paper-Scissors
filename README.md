@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-develop a Rock-Paper-Scissor game.
+Develop a Rock-Paper-Scissor game.
